@@ -23,7 +23,7 @@ The portaudio-go dependency requires PortAudio on your system:
 > Ubuntu you would want to run apt-get install portaudio19-dev. On other systems
 > you might have to install from source.
 
-On Mac, you can use homebrew:
+On Mac, you can use homebrew: https://github.com/PortAudio/portaudio
 
     brew install portaudio
 
